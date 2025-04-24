@@ -58,6 +58,12 @@ This app will be available at http://localhost:5173
 
 ---
 
+#Design
+
+UI design by Geraldine Gunawan, who created the original concept and layout for the MyLocat interface.
+
+---
+
 #Author
 
 Linda Stumpf. Full-stack learner building real-world apps with Spring Boot & React.
